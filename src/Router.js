@@ -20,7 +20,7 @@ const Router = () => {
     const history = createBrowserHistory();
 
     return (
-        <BrowserRouter history={history} basename="/login">
+        <BrowserRouter history={history}>
             <Routes>
                 <Route path="/login" exact element={<Login />} />
                 <Route path="/signup" exact element={<Signup />} />
