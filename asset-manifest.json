@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6825c6b.css",
-    "main.js": "/static/js/main.d01fe3bd.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "index.html": "/index.html",
-    "main.b6825c6b.css.map": "/static/css/main.b6825c6b.css.map",
-    "main.d01fe3bd.js.map": "/static/js/main.d01fe3bd.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/annotation-deployment/login/static/css/main.b6825c6b.css",
+    "main.js": "/annotation-deployment/login/static/js/main.e506fdfb.js",
+    "static/js/787.cda612ba.chunk.js": "/annotation-deployment/login/static/js/787.cda612ba.chunk.js",
+    "index.html": "/annotation-deployment/login/index.html",
+    "main.b6825c6b.css.map": "/annotation-deployment/login/static/css/main.b6825c6b.css.map",
+    "main.e506fdfb.js.map": "/annotation-deployment/login/static/js/main.e506fdfb.js.map",
+    "787.cda612ba.chunk.js.map": "/annotation-deployment/login/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6825c6b.css",
-    "static/js/main.d01fe3bd.js"
+    "static/js/main.e506fdfb.js"
   ]
 }
